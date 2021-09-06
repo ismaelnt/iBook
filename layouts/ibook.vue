@@ -1,6 +1,6 @@
 <template>
   <div class="ibook-layout">
-    <!-- Header -->
+    <Header />
     <Container>
       <Nuxt />
     </Container>
