@@ -1,7 +1,5 @@
 <template>
-  <div class="box">
-    
-  </div>
+<AboutTemplate />
 </template>
 
 <script lang="ts">
@@ -11,7 +9,3 @@
     layout: 'ibook'
   })
 </script>
-
-<style scoped>
-
-</style>
