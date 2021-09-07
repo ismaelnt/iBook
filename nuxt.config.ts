@@ -37,6 +37,10 @@ export default {
     scss: ['@/components/bosons/*.scss']
   },
 
+  axios: {
+    baseURL: 'https://api-ibook-thiagosilvalopes.herokuapp.com/'
+  },
+
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
