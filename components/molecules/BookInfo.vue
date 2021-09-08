@@ -9,10 +9,12 @@
     <div class="book-release-details">
       <ul>
         <li>
-          <p>Lançamento: {{ $book.releaseDate }}</p>
+          <p>Lançamento:</p>
+          <p>{{ $book.releaseDate }}</p>
         </li>
         <li>
-          <p>Autor: {{ $book.author }}</p>
+          <p>Autor:</p>
+          <p>{{ $book.author }}</p>
         </li>
       </ul>
     </div>
@@ -40,7 +42,7 @@ import { books } from '@/store'
   .book-description {
     line-height: 1.625rem;
   }
-  .book-categoires {
+  .book-categories {
     margin-top: 2rem;
   }
   .book-release-details {
