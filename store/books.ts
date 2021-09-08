@@ -32,7 +32,6 @@ export default class Books extends VuexModule {
   @Action
   public async index() {
     const books = await $axios.$get('/books')
-    console.log(books)
     this.context.commit('SET_BOOKS', books)
   }
 

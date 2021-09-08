@@ -11,6 +11,11 @@ module.exports = {
   ],
   plugins: [
   ],
+
+  parser: 'babel-eslint',
   // add your custom rules here
-  rules: {}
+  rules: {
+    'no-console': 'off',
+    'no-unused-vars': 'off'
+  }
 }
