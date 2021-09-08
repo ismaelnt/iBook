@@ -14,7 +14,7 @@
     @include screen ('medium') {
       max-width: 85%;
     }
-    @include screen ('large, infinity') {
+    @include screen ('large', 'infinity') {
       max-width: 70%;
     }
   }

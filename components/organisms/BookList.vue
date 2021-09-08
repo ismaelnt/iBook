@@ -23,8 +23,8 @@
   grid-template-columns: repeat(6, 1fr);
   grid-template-rows: auto;
   grid-gap: 2rem;
-  @include screen ('small') {
-    grid-template-columns: repeat(2, 1fr);
+   @include screen ('small') {
+    grid-template-columns: repeat(1, 1fr);
   }
   @include screen ('medium') {
     grid-template-columns: repeat(3, 1fr);
