@@ -1,5 +1,5 @@
 <template>
-  <div class="book-categorires">
+  <div class="book-categories">
     <Chip 
       v-for="category in $book.categories"
       :key="category.id"
@@ -22,5 +22,10 @@ import { books } from '~/store'
 </script>
 
 <style lang="scss" scoped>
-
+.book-categories {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: max-content;
+  grid-gap: 0.5rem;
+}
 </style>
