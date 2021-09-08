@@ -10,7 +10,7 @@
 
 <script lang="ts">
 import Vue from 'vue'
-import { books } from '~/store'
+import { books } from '@/store'
 
   export default Vue.extend({
     computed: {
