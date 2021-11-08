@@ -5,7 +5,7 @@
 </h1>
 
 
-### [Aplicação hospedada no Firebase (CLique aqui para acessar)](https://ibook-frontend.herokuapp.com/)
+### [Aplicação hospedada no Heroku (CLique aqui para acessar)](https://ibook-frontend.herokuapp.com/)
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
