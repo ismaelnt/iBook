@@ -32,4 +32,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O iBooké uma biblioteca virtual desenvolvida com Nuxt.js, SCSS, Typescript. Juntamente com as bibliotecas: Axios (instalada como módulo do Nuxt), e Swiper.js.
+O iBook é uma biblioteca virtual desenvolvida com Nuxt.js, SCSS, Typescript. Juntamente com as bibliotecas: Axios (instalada como módulo do Nuxt), e Swiper.js.
